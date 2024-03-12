@@ -1,13 +1,13 @@
 header{
     background-color: #eee;
     padding: 0;
-    border-bottom: 1px solid orange;
+    border-bottom: 1px solid orangered;
 }
 a{
-    color: orange;
+    color: orangered;
 }
 a:hover{
-    color: rgb(190, 120, 0);
+    color: rgb(207, 55, 0);
 }
 .container{
     margin: 0 auto;
